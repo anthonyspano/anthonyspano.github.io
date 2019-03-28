@@ -1,0 +1,10 @@
+# Config
+name: Anthony Spano
+description: Showcase of self-made scripts
+url: "http://anthonyspano.github.io/"
+lsi: false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# Build Settings
+theme: hacker
