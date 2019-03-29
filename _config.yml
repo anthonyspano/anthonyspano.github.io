@@ -23,7 +23,7 @@ github_username:  anthonyspano
 
 # Build settings
 markdown: kramdown
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
 
