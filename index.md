@@ -2,7 +2,14 @@
 layout: default
 ---
 
-<h2>Attack animation sequencing</h2>
+<h2>2D Action Boss Fight</h2>
+<h3>Defeating the minotaur</h3>
+<img src="https://i.imgur.com/uWYqVkc.gif" width="60%" height="60%">
+
+<h3>Being defeated by the minotaur</h3>
+<img src="https://i.imgur.com/jSNPOQn.gif" width="60%" height="60%">
+
+<h3>Attack animation sequencing</h3>
 <p>Below is an attack sequence that is performed with successive key presses.
 The player is limited to a max combo of three in this case.
 If the player does not press the key quickly enough, the attack sequence will reset.
