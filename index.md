@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>2D Action Boss Fight</h2>
+<h2>2D Action Game</h2>
 <h3>Defeating the minotaur</h3>
 <img src="https://i.imgur.com/uWYqVkc.gif" width="60%" height="60%">
 
