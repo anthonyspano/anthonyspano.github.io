@@ -15,7 +15,7 @@
 	<img src="prototype1.gif" width="480" height="258">
 	
 	<h3>Minotaur boss fight</h3>
-	<img src="Minotaurfight.gif" width="480" height="258">
+	<img src="minofight.gif" width="480" height="258">
 	<p>I hope you enjoyed some of my work so far. There will be more to come!</p>
 </body>
   
