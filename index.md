@@ -13,12 +13,6 @@
 	
 	<p>Expend your ultimate charge to do a massive attack!</p>
 	<img src="prototype1.gif" width="480" height="258">
-	Watch the video here!
-	<video width="320" height="240" controls>
-	<source src="prototype1.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-	</video>
-	
 	
 	<h3>Win screen:</h3>
 	<iframe src="https://giphy.com/embed/JVs4wZt8cRZrFEWKsp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JVs4wZt8cRZrFEWKsp"></a></p>
