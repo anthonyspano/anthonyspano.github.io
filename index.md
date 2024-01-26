@@ -12,6 +12,7 @@
 	<p>Dodging away from your enemies and having your doppelganger take the hit will fill your bar also. </p>
 	
 	<p>Expend your ultimate charge to do a massive attack!</p>
+	<img src="prototype1.gif" width="480" height="258">
 	Watch the video here!
 	<video width="320" height="240" controls>
 	<source src="prototype1.mp4" type="video/mp4">
