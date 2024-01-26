@@ -10,9 +10,10 @@
 	<img src="ezbeam.gif" width="480" height="258">
 	
 	<p>Dodging away from your enemies and having your doppelganger take the hit will fill your bar also. </p>
+	<img src="doppelganger.gif" width="480" height="258">
 	
 	<p>Expend your ultimate charge to do a massive attack!</p>
-	<img src="prototype1.gif" width="480" height="258">
+	<img src="beamrelease.gif" width="480" height="258">
 	
 	<h3>Minotaur boss fight</h3>
 	<img src="minofight.gif" width="480" height="258">
