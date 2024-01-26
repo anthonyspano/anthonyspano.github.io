@@ -14,9 +14,9 @@
 	<p>Expend your ultimate charge to do a massive attack!</p>
 	<img src="prototype1.gif" width="480" height="258">
 	
-	<h3>Win screen:</h3>
-	<iframe src="https://giphy.com/embed/JVs4wZt8cRZrFEWKsp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JVs4wZt8cRZrFEWKsp"></a></p>
-	<p>Make it to the end of the dungeon and defeat all enemies in the fastest time!</p>
+	<h3>Minotaur boss fight</h3>
+	<img src="Minotaurfight.gif" width="480" height="258">
+	<p>I hope you enjoyed some of my work so far. There will be more to come!</p>
 </body>
   
 </html>
